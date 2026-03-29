@@ -71,3 +71,5 @@
 2026-03-29 15:52:35,326 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AITS\GitDemo1\testDemo\src\test\resources
 2026-03-29 15:53:59,799 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AITS\GitDemo1\testDemo\src\main\resources
 2026-03-29 15:53:59,807 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AITS\GitDemo1\testDemo\src\test\resources
+2026-03-29 15:57:51,873 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AITS\GitDemo1\testDemo\src\main\resources
+2026-03-29 15:57:51,880 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AITS\GitDemo1\testDemo\src\test\resources
